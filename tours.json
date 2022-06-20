@@ -1,0 +1,287 @@
+[
+    {
+        "tourId": 1,
+        "turismoCultural": [
+            {
+                "id": 1,
+                "cidade": "Vassouras",
+                "title": "Praça Barão de Campo Belo",
+                "description": "Cercada pelas famosas palmeiras imperiais, tendo ao centro um lindo chafariz monumental, e no topo da colina, a Igreja Matriz de Nossa Senhora da Conceição",
+                "picture": "..."
+            },
+            {
+                "id": 2,
+                "cidade": "Vassouras",
+                "title": "Chafariz Monumental",
+                "description": "Data de 1846, todo em cantaria, foi projetado pelo arquiteto espanhol Joaquim de Soto Garcia de La Vega.",
+                "picture": "..."
+            },
+            {
+                "id": 3,
+                "cidade": "Vassouras",
+                "title": "Museu Casa da Hera",
+                "description": "A casa e sua extensa área verde, que pertenceram à família de Eufrásia Teixeira Leite, preservam-se até hoje, graçaas ao seu testamento no qual havia uma cláusula que garantia sua integridade.",
+                "picture": "..."
+            },
+            {
+                "id": 4,
+                "cidade": "Vassouras",
+                "title": "Antiga Estação Ferroviária de Vassouras",
+                "description": "Inaugurada em 1914 e funcionou até 1970. Atualmente, além de departamentos administrativos da Fundação Educacional Severino Sombra, também funciona no local o Memorial do Trem.",
+                "picture": "..."
+            },
+            {
+                "id": 5,
+                "cidade": "Vassouras",
+                "title": "Palacete Barão de Itambé",
+                "description": "Construído em 1849 por José Joaquim Botelho, e adquirido em 1859 por Francisco José Teixeira, o Barão de Itambé, um dos mais famosos do ciclo do café.",
+                "picture": "..."
+            },
+            {
+                "id": 6,
+                "cidade": "Vassouras",
+                "title": "Observatório Magnético",
+                "description": "Patrimônio científico e cultural, a unidade do Observatório Nacional (ON) é destinada ao estudo do campo magnético da Terra.",
+                "picture": "..."
+            },
+            {
+                "id": 7,
+                "cidade": "Vassouras",
+                "title": "Memorial Manoel Congo",
+                "description": "O memorial é uma homenagem ao líder do movimento de revolta contra o regime de escravidão, ocorrido em 1838, quando escravos fugidos da Fazenda Maravilha tentaram formar um quilombo.",
+                "picture": "..."
+            },
+            {
+                "id": 8,
+                "cidade": "Vassouras",
+                "title": "Mirante do Imperador",
+                "description": "Um dos pontos mais altos da cidade de Vassouras proporciona uma vista privilegiada de seu centro histórico.",
+                "picture": "..."
+            },
+            {
+                "id": 9,
+                "cidade": "Vassouras",
+                "title": "Alambique Fazenda União Carvalheira",
+                "description": "Produzindo a cachaça União Carvalheira desde 1979, o alambique realiza o armazenamento e envelhecimento da cachaça em tonéis de carvalho.",
+                "picture": "..."
+            },
+            {
+                "id": 10,
+                "cidade": "Vassouras",
+                "title": "Fazenda Cachoeira Grande",
+                "description": "A Fazenda Cachoeira Grande não era a maior fazenda da região, mas foi o princípio da imensa fortuna do Barão de Vassouras, Francisco José Teixeira Leite, filho do Barão de Itambé.",
+                "picture": "..."
+            },
+            {
+                "id": 11,
+                "cidade": "Vassouras",
+                "title": "Centro Cultural Cazuza",
+                "description": "Em Vassouras, um antigo casarão de 1845 totalmente restaurados e protegidos pelo IPHAN abriga o Centro Cultural Cazuza.",
+                "picture": "..."
+            },
+            {
+                "id": 12,
+                "cidade": "Petrópolis",
+                "title": "Casa Stefan Zweig",
+                "description": "O museu está localizado na casa onde o escritor e a esposa Lotte se exilou por cinco meses até que não suportaram a solidão e as notícias da guerra que se intensificavam e puseram fim às suas vidas.",
+                "picture": "..."
+            },
+            {
+                "id": 13,
+                "cidade": "Petrópolis",
+                "title": "Museu Casa de Santos Dumont",
+                "description": "Foi residência de verão de verão de Alberto Santos Dumont, Pai da Aviação, sendo conhecida como “A Encantada”.",
+                "picture": "..."
+            },
+            {
+                "id": 14,
+                "cidade": "Petrópolis",
+                "title": "Museu da Motocicleta Clássica Gallery 275",
+                "description": "A coleção de motos dedicada às décadas de 60, 70, 80 e 90.",
+                "picture": "..."
+            },
+            {
+                "id": 15,
+                "cidade": "Petrópolis",
+                "title": "Museu de Cera",
+                "description": "O Museu de Cera de Petrópolis é o primeiro no Brasil com padrões artísticos internacionais de hiper-realismo, no qual personalidades nacionais e internacionais são retratadas.",
+                "picture": "..."
+            },
+            {
+                "id": 16,
+                "cidade": "Petrópolis",
+                "title": "Museu de Porcelana",
+                "description": "O museu de Porcelana reúne um acervo de 1600 animais feitos de porcelana europeia e à mão.",
+                "picture": "..."
+            },
+            {
+                "id": 17,
+                "cidade": "Petrópolis",
+                "title": "Museu Imperial",
+                "description": "O Museu Imperial, era o refúgio da família imperial no verão. ",
+                "picture": "..."
+            },
+            {
+                "id": 18,
+                "cidade": "Petrópolis",
+                "title": "Hotel Quitandinha",
+                "description": "O Palácio Quitandinha foi inaugurado em 1944 para ser o maior cassino-hotel da América Latina. O espaço faz referência ao estilo neo-normando, tendência dos grandes cassinos europeus da época.",
+                "picture": "..."
+            },
+            {
+                "id": 19,
+                "cidade": "Miguel Pereira",
+                "title": "Monumento Natural Gruta dos Escravos",
+                "description": "O monumento foi construído por escravizados no século XVIII em homenagem à Nossa Senhora da Penna.",
+                "picture": "..."
+            },
+            {
+                "id": 20,
+                "cidade": "Miguel Pereira",
+                "title": "Caminho do Imperador",
+                "description": "O Caminho do Imperador foi a primeira via para pedestres e animais construída no início do século XVIII ligando o Rio de Janeiro a Minas Gerais.",
+                "picture": "..."
+            },
+            {
+                "id": 21,
+                "cidade": "Miguel Pereira",
+                "title": "Museu Ferroviário",
+                "description": "Localizado na antiga Estação Ferroviária de Miguel Pereira, possui acervo sobre as atividades ferroviárias no Município, além de grande número de fotografias e objetos típicos da estrada de ferro.",
+                "picture": "..."
+            },
+            {
+                "id": 22,
+                "cidade": "Santa Maria Madalena",
+                "title": "Museu Dercy Gonçalves",
+                "description": "O Museu exibe diversas peças, objetos, acessórios e documentos da atriz Dercy Gonçalves, que nasceu em Santa Maria Madalena em 23 de junho de 1907.",
+                "picture": "..."
+            },
+            {
+                "id": 23,
+                "cidade": "Casimiro de Abreu",
+                "title": "Museu Casa Casimiro de Abreu",
+                "description": "A casa onde Casimiro de Abreu, passou sua infância, hoje é um museu dedicado à sua memória.",
+                "picture": "..."
+            },
+            {
+                "id": 24,
+                "cidade": "Rio de Janeiro",
+                "title": "Museu de Arte do Rio",
+                "description": "Inaugurado em 1º de março de 2013, o MAR, promove uma leitura transversal da história da cidade, sua vida simbólica, contradições, desafios e expectativas sociais.",
+                "picture": "..."
+            },
+            {
+                "id": 25,
+                "cidade": "Rio de Janeiro",
+                "title": "Museu de Astronomia e Ciências Afins",
+                "description": "O MAST guarda importante acervo bibliográfico, museológico e paisagístico ligados à história da atividade científica brasileira.",
+                "picture": "..."
+            },
+            {
+                "id": 26,
+                "cidade": "Rio de Janeiro",
+                "title": "Museu Militar Conde de Linhares",
+                "description": "O Museu Militar Conde de Linhares, localizado no bairro de São Cristóvão, recebeu o seu nome em homenagem a D. Rodrigo de Souza Coutinho, o Conde de Linhares, político que acompanhou a transferência da Corte Portuguesa para o Brasil.",
+                "picture": "..."
+            },
+            {
+                "id": 27,
+                "cidade": "Rio de Janeiro",
+                "title": "1º Batalhão de Guardas",
+                "description": "Assim com a denominação de honra de Batalhão do Imperador, essa Tropa de Elite, organizada com estrutura semelhante à de um Batalhão de Caçadores, forma-se então a Guarda Pessoal do Imperador.",
+                "picture": "..."
+            },
+            {
+                "id": 28,
+                "cidade": "Rio de Janeiro",
+                "title": "Pedra do Sal",
+                "description": "Monumento histórico e religioso, onde se encontra a Comunidade Remanescente de Quilombos da Pedra do Sal. Foi tombada em 20 de novembro de 1984 pelo Instituto Estadual do Patrimônio.",
+                "picture": "..."
+            },
+            {
+                "id": 29,
+                "cidade": "Rio de Janeiro",
+                "title": "Museu do Samba",
+                "description": "O Museu do Samba localizado dentro do Centro Cultural Cartola, tem o objetivo de guardar a memória do samba como patrimônio cultural e preservar as suas matrizes.",
+                "picture": "..."
+            },
+            {
+                "id": 30,
+                "cidade": "Rio de Janeiro",
+                "title": "Museu de Arte Moderna",
+                "description": "Contemporâneo dos movimentos artísticos que sacudiram o país desde a década de 1950, o MAM viu nascer, lançou e divulgou artistas modernos e contemporâneos que hoje povoam o circuito internacional das artes.",
+                "picture": "..."
+            },
+            {
+                "id": 31,
+                "cidade": "Rio de Janeiro",
+                "title": "Jardim Suspenso do Valongo",
+                "description": "Construído em 1906, o Jardim Suspenso do Valongo foi projetado pelo paisagista Luís Rei como parte do projeto de revitalização, sua construção foi também uma tentativa de apagar as marcas da escravidão.",
+                "picture": "..."
+            },
+            {
+                "id": 32,
+                "cidade": "Rio de Janeiro",
+                "title": "Casa da Tia Ciata",
+                "description": "Sede da Organização dos Remanescentes da Tia Ciata (ORTC) e espaço cultural para manter viva a memória da Matriarca do Samba.",
+                "picture": "..."
+            },
+            {
+                "id": 33,
+                "cidade": "Rio de Janeiro",
+                "title": "Theatro Municipal",
+                "description": "O Theatro Municipal do Rio de Janeiro é uma das principais casas de espetáculo do Brasil. É palco para importantes orquestras, companhias de teatro e de ballet e diversos artistas nacionais e internacionais.",
+                "picture": "..."
+            },
+            {
+                "id": 34,
+                "cidade": "Rio de Janeiro",
+                "title": "Ilha de Paquetá",
+                "description": "Além do patrimônio material e natural, a história da ilha acumulou um rico acervo imaterial, com lendas indígenas, escravas e românticas e manifestações culturais e estilo de vida única.",
+                "picture": "..."
+            },
+            {
+                "id": 35,
+                "cidade": "Rio de Janeiro",
+                "title": "Museu do Amanhã",
+                "description": "Ambiente de ideias, informações, explorações e perguntas sobre a época de grandes mudanças em que vivemos e reflexões sobre os diferentes caminhos que se abrem para o futuro.",
+                "picture": "..."
+            },
+            {
+                "id": 36,
+                "cidade": "Rio de Janeiro",
+                "title": "Centro Cultural dos Correios",
+                "description": "Construído como Palácio dos Correios e Telégrafos, em 1912, o prédio reabriu as portas recentemente com ambientes para exposições de artes plásticas, espaços de convivência e uma sala de projeção.",
+                "picture": "..."
+            },
+            {
+                "id": 37,
+                "cidade": "Rio de Janeiro",
+                "title": "Casa de Cultura Laura Alvim",
+                "description": "A Casa iniciou suas atividades em 1986 como espalho multicultural.",
+                "picture": "..."
+            },
+            {
+                "id": 38,
+                "cidade": "Rio de Janeiro",
+                "title": "Museu Oi Futuro",
+                "description": "Espaço contemporâneo que abriga exposições tecnológicas, eventos culturais e um famoso café no topo do prédio.",
+                "picture": "..."
+            },
+            {
+                "id": 39,
+                "cidade": "Rio de Janeiro",
+                "title": "Museu Histórico Nacional",
+                "description": "Museu Histórico Nacional preserva a cultura da história da Nação brasileira, criado na década de 1922, reunindo um acervo com cerca de 350 mil itens.",
+                "picture": "..."
+            },
+            {
+                "id": 40,
+                "cidade": "Rio de Janeiro",
+                "title": "Espaço Cultural da Marinha",
+                "description": "Instalado nas antigas docas da Alfândega, sobre uma área aterrada na segunda metade do século XIX, o espaço foi inaugurado em 20 de janeiro de 1996. O local abriga parte importante do acervo da Marinha do Brasil.",
+                "picture": "..."
+            }
+        ]
+    }
+]
