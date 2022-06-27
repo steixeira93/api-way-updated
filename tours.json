@@ -4,588 +4,588 @@
         "turismoCultural": [
             {
                 "id": 1,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Praça Barão de Campo Belo",
                 "description": "Cercada pelas famosas palmeiras imperiais, tendo ao centro um lindo chafariz monumental, e no topo da colina, a Igreja Matriz de Nossa Senhora da Conceição",
                 "picture": "..."
             },
             {
                 "id": 2,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Chafariz Monumental",
                 "description": "Data de 1846, todo em cantaria, foi projetado pelo arquiteto espanhol Joaquim de Soto Garcia de La Vega.",
                 "picture": "..."
             },
             {
                 "id": 3,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Museu Casa da Hera",
                 "description": "A casa e sua extensa área verde, que pertenceram à família de Eufrásia Teixeira Leite, preservam-se até hoje, graçaas ao seu testamento no qual havia uma cláusula que garantia sua integridade.",
                 "picture": "..."
             },
             {
                 "id": 4,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Antiga Estação Ferroviária de Vassouras",
                 "description": "Inaugurada em 1914 e funcionou até 1970. Atualmente, além de departamentos administrativos da Fundação Educacional Severino Sombra, também funciona no local o Memorial do Trem.",
                 "picture": "..."
             },
             {
                 "id": 5,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Palacete Barão de Itambé",
                 "description": "Construído em 1849 por José Joaquim Botelho, e adquirido em 1859 por Francisco José Teixeira, o Barão de Itambé, um dos mais famosos do ciclo do café.",
                 "picture": "..."
             },
             {
                 "id": 6,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Observatório Magnético",
                 "description": "Patrimônio científico e cultural, a unidade do Observatório Nacional (ON) é destinada ao estudo do campo magnético da Terra.",
                 "picture": "..."
             },
             {
                 "id": 7,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Memorial Manoel Congo",
                 "description": "O memorial é uma homenagem ao líder do movimento de revolta contra o regime de escravidão, ocorrido em 1838, quando escravos fugidos da Fazenda Maravilha tentaram formar um quilombo.",
                 "picture": "..."
             },
             {
                 "id": 8,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Mirante do Imperador",
-                "description": "Um dos pontos mais altos da cidade de Vassouras proporciona uma vista privilegiada de seu centro histórico.",
+                "description": "Um dos pontos mais altos da city de Vassouras proporciona uma vista privilegiada de seu centro histórico.",
                 "picture": "..."
             },
             {
                 "id": 9,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Alambique Fazenda União Carvalheira",
                 "description": "Produzindo a cachaça União Carvalheira desde 1979, o alambique realiza o armazenamento e envelhecimento da cachaça em tonéis de carvalho.",
                 "picture": "..."
             },
             {
                 "id": 10,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Fazenda Cachoeira Grande",
                 "description": "A Fazenda Cachoeira Grande não era a maior fazenda da região, mas foi o princípio da imensa fortuna do Barão de Vassouras, Francisco José Teixeira Leite, filho do Barão de Itambé.",
                 "picture": "..."
             },
             {
                 "id": 11,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Centro Cultural Cazuza",
                 "description": "Em Vassouras, um antigo casarão de 1845 totalmente restaurados e protegidos pelo IPHAN abriga o Centro Cultural Cazuza.",
                 "picture": "..."
             },
             {
                 "id": 12,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Casa Stefan Zweig",
                 "description": "O museu está localizado na casa onde o escritor e a esposa Lotte se exilou por cinco meses até que não suportaram a solidão e as notícias da guerra que se intensificavam e puseram fim às suas vidas.",
                 "picture": "..."
             },
             {
                 "id": 13,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Museu Casa de Santos Dumont",
                 "description": "Foi residência de verão de verão de Alberto Santos Dumont, Pai da Aviação, sendo conhecida como “A Encantada”.",
                 "picture": "..."
             },
             {
                 "id": 14,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Museu da Motocicleta Clássica Gallery 275",
                 "description": "A coleção de motos dedicada às décadas de 60, 70, 80 e 90.",
                 "picture": "..."
             },
             {
                 "id": 15,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Museu de Cera",
                 "description": "O Museu de Cera de Petrópolis é o primeiro no Brasil com padrões artísticos internacionais de hiper-realismo, no qual personalidades nacionais e internacionais são retratadas.",
                 "picture": "..."
             },
             {
                 "id": 16,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Museu de Porcelana",
                 "description": "O museu de Porcelana reúne um acervo de 1600 animais feitos de porcelana europeia e à mão.",
                 "picture": "..."
             },
             {
                 "id": 17,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Museu Imperial",
                 "description": "O Museu Imperial, era o refúgio da família imperial no verão. ",
                 "picture": "..."
             },
             {
                 "id": 18,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Hotel Quitandinha",
                 "description": "O Palácio Quitandinha foi inaugurado em 1944 para ser o maior cassino-hotel da América Latina. O espaço faz referência ao estilo neo-normando, tendência dos grandes cassinos europeus da época.",
                 "picture": "..."
             },
             {
                 "id": 19,
-                "cidade": "Miguel Pereira",
+                "city": "Miguel Pereira",
                 "title": "Monumento Natural Gruta dos Escravos",
                 "description": "O monumento foi construído por escravizados no século XVIII em homenagem à Nossa Senhora da Penna.",
                 "picture": "..."
             },
             {
                 "id": 20,
-                "cidade": "Miguel Pereira",
+                "city": "Miguel Pereira",
                 "title": "Caminho do Imperador",
                 "description": "O Caminho do Imperador foi a primeira via para pedestres e animais construída no início do século XVIII ligando o Rio de Janeiro a Minas Gerais.",
                 "picture": "..."
             },
             {
                 "id": 21,
-                "cidade": "Miguel Pereira",
+                "city": "Miguel Pereira",
                 "title": "Museu Ferroviário",
                 "description": "Localizado na antiga Estação Ferroviária de Miguel Pereira, possui acervo sobre as atividades ferroviárias no Município, além de grande número de fotografias e objetos típicos da estrada de ferro.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Santa Maria Madalena",
+                "city": "Santa Maria Madalena",
                 "title": "Museu Dercy Gonçalves",
                 "description": "O Museu exibe diversas peças, objetos, acessórios e documentos da atriz Dercy Gonçalves, que nasceu em Santa Maria Madalena em 23 de junho de 1907.",
                 "picture": "..."
             },
             {
                 "id": 23,
-                "cidade": "Casimiro de Abreu",
+                "city": "Casimiro de Abreu",
                 "title": "Museu Casa Casimiro de Abreu",
                 "description": "A casa onde Casimiro de Abreu, passou sua infância, hoje é um museu dedicado à sua memória.",
                 "picture": "..."
             },
             {
                 "id": 24,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu de Arte do Rio",
-                "description": "Inaugurado em 1º de março de 2013, o MAR, promove uma leitura transversal da história da cidade, sua vida simbólica, contradições, desafios e expectativas sociais.",
+                "description": "Inaugurado em 1º de março de 2013, o MAR, promove uma leitura transversal da história da city, sua vida simbólica, contradições, desafios e expectativas sociais.",
                 "picture": "..."
             },
             {
                 "id": 25,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu de Astronomia e Ciências Afins",
                 "description": "O MAST guarda importante acervo bibliográfico, museológico e paisagístico ligados à história da atividade científica brasileira.",
                 "picture": "..."
             },
             {
                 "id": 26,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu Militar Conde de Linhares",
                 "description": "O Museu Militar Conde de Linhares, localizado no bairro de São Cristóvão, recebeu o seu nome em homenagem a D. Rodrigo de Souza Coutinho, o Conde de Linhares, político que acompanhou a transferência da Corte Portuguesa para o Brasil.",
                 "picture": "..."
             },
             {
                 "id": 27,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "1º Batalhão de Guardas",
                 "description": "Assim com a denominação de honra de Batalhão do Imperador, essa Tropa de Elite, organizada com estrutura semelhante à de um Batalhão de Caçadores, forma-se então a Guarda Pessoal do Imperador.",
                 "picture": "..."
             },
             {
                 "id": 28,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Pedra do Sal",
                 "description": "Monumento histórico e religioso, onde se encontra a Comunidade Remanescente de Quilombos da Pedra do Sal. Foi tombada em 20 de novembro de 1984 pelo Instituto Estadual do Patrimônio.",
                 "picture": "..."
             },
             {
                 "id": 29,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu do Samba",
                 "description": "O Museu do Samba localizado dentro do Centro Cultural Cartola, tem o objetivo de guardar a memória do samba como patrimônio cultural e preservar as suas matrizes.",
                 "picture": "..."
             },
             {
                 "id": 30,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu de Arte Moderna",
                 "description": "Contemporâneo dos movimentos artísticos que sacudiram o país desde a década de 1950, o MAM viu nascer, lançou e divulgou artistas modernos e contemporâneos que hoje povoam o circuito internacional das artes.",
                 "picture": "..."
             },
             {
                 "id": 31,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Jardim Suspenso do Valongo",
                 "description": "Construído em 1906, o Jardim Suspenso do Valongo foi projetado pelo paisagista Luís Rei como parte do projeto de revitalização, sua construção foi também uma tentativa de apagar as marcas da escravidão.",
                 "picture": "..."
             },
             {
                 "id": 32,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Casa da Tia Ciata",
                 "description": "Sede da Organização dos Remanescentes da Tia Ciata (ORTC) e espaço cultural para manter viva a memória da Matriarca do Samba.",
                 "picture": "..."
             },
             {
                 "id": 33,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Theatro Municipal",
                 "description": "O Theatro Municipal do Rio de Janeiro é uma das principais casas de espetáculo do Brasil. É palco para importantes orquestras, companhias de teatro e de ballet e diversos artistas nacionais e internacionais.",
                 "picture": "..."
             },
             {
                 "id": 34,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Ilha de Paquetá",
                 "description": "Além do patrimônio material e natural, a história da ilha acumulou um rico acervo imaterial, com lendas indígenas, escravas e românticas e manifestações culturais e estilo de vida única.",
                 "picture": "..."
             },
             {
                 "id": 35,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu do Amanhã",
                 "description": "Ambiente de ideias, informações, explorações e perguntas sobre a época de grandes mudanças em que vivemos e reflexões sobre os diferentes caminhos que se abrem para o futuro.",
                 "picture": "..."
             },
             {
                 "id": 36,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Centro Cultural dos Correios",
                 "description": "Construído como Palácio dos Correios e Telégrafos, em 1912, o prédio reabriu as portas recentemente com ambientes para exposições de artes plásticas, espaços de convivência e uma sala de projeção.",
                 "picture": "..."
             },
             {
                 "id": 37,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Casa de Cultura Laura Alvim",
                 "description": "A Casa iniciou suas atividades em 1986 como espalho multicultural.",
                 "picture": "..."
             },
             {
                 "id": 38,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu Oi Futuro",
                 "description": "Espaço contemporâneo que abriga exposições tecnológicas, eventos culturais e um famoso café no topo do prédio.",
                 "picture": "..."
             },
             {
                 "id": 39,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu Histórico Nacional",
                 "description": "Museu Histórico Nacional preserva a cultura da história da Nação brasileira, criado na década de 1922, reunindo um acervo com cerca de 350 mil itens.",
                 "picture": "..."
             },
             {
                 "id": 40,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Espaço Cultural da Marinha",
                 "description": "Instalado nas antigas docas da Alfândega, sobre uma área aterrada na segunda metade do século XIX, o espaço foi inaugurado em 20 de janeiro de 1996. O local abriga parte importante do acervo da Marinha do Brasil.",
                 "picture": "..."
             },
             {
                 "id": 41,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Centro Cultural Banco do Brasil",
                 "description": "O CCBB proporciona acesso às manifestações artístico-culturais nacionais e internacionais que buscam refletir e instigar novos olhares sobre o mundo.",
                 "picture": "..."
             },
             {
                 "id": 42,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Instituto Moreira Salles",
                 "description": "Espaço contemporâneo com paisagens, oferecendo exibições, filmes, música e outros eventos culturais.",
                 "picture": "..."
             },
             {
                 "id": 43,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Palácio do Catete (Museu da República)",
-                "description": "O Museu da República e seu entorno documentam dois períodos distintos da história política e social da cidade do Rio de Janeiro e do país: o Brasil Império e a vida urbana das elites cafeicultoras e escravocratas.",
+                "description": "O Museu da República e seu entorno documentam dois períodos distintos da história política e social da city do Rio de Janeiro e do país: o Brasil Império e a vida urbana das elites cafeicultoras e escravocratas.",
                 "picture": "..."
             },
             {
                 "id": 44,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Paço Imperial do Rio de Janeiro ",
                 "description": "O Paço Imperial foi o centro das movimentações políticas e sociais da época, registrando importantes fatos históricos do Brasil Colônia, Real e Imperial.",
                 "picture": "..."
             },
             {
                 "id": 45,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Palácio da Ilha Fiscal",
                 "description": "A Ilha Fiscal abriga um pequeno castelo erguido no século XIX por Dom Pedro II.",
                 "picture": "..."
             },
             {
                 "id": 46,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Forte de Copacabana",
                 "description": "Construído no início do século XX e palco de importantes acontecimentos históricos.",
                 "picture": "..."
             },
             {
                 "id": 47,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Real Gabinete Português",
                 "description": "Finalizado em 1837, o Real Gabinete Português de Leitura foi construído por 43 imigrantes portugueses, para ser um centro de conhecimento e convivência da comunidade lusitana.",
                 "picture": "..."
             },
             {
                 "id": 48,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu Chácara do Céu",
                 "description": "O Museu Chácara do Céu funciona em um antigo casarão de 1876. Em 1934, o casarão foi demolido, tendo sido ali construído uma residência moderna integrada aos seus jardins. No ano de 1936, o imóvel foi herdado por Raymundo Castro Maya.",
                 "picture": "..."
             },
             {
                 "id": 49,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Parque das Ruínas",
                 "description": "O Parque das Ruínas no início do século XX, recebia saraus com importantes artistas do país e personalidades internacionais.",
                 "picture": "..."
             },
             {
                 "id": 50,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Sala Cecília Meireles",
                 "description": "Uma das mais tradicionais salas de concertos, a Sala Cecília Meireles é reconhecida por sua acústica impecável.",
                 "picture": "..."
             },
             {
                 "id": 51,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Teatro Riachuelo Rio",
                 "description": "O Cine Palácio, marco histórico do Rio de Janeiro, reabriu suas portas como Teatro Riachuelo. Preservando as características do edifício original, o espaço cultural conta com uma moderna estrutura capaz de receber grandes espetáculos.",
                 "picture": "..."
             },
             {
                 "id": 52,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu da Imagem e do Som",
                 "description": "Fundado em 1965, o Museu da Imagem e do Som foi pioneiro no Brasil ao lançar um novo modelo audiovisual.",
                 "picture": "..."
             },
             {
                 "id": 53,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu Penitenciário",
                 "description": "O Museu Penitenciário foi criado com o objetivo de recolher, preservar e expor o patrimônio histórico de apreensão do Sistema Prisional do Estado do Rio de Janeiro.",
                 "picture": "..."
             },
             {
                 "id": 54,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Teatro Odeon",
                 "description": "O Cine Odeon existe desde o início do século XX. De 1909 até 1918, com pausas entre 1914 e 1916, um dos maiores músicos brasileiros já confirmava a vocação desse Cinema para a grandeza.",
                 "picture": "..."
             },
             {
                 "id": 55,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Largo do Boticário",
                 "description": "O Largo do Boticário é uma relíquia arquitetônica e cultural, cercado de matas, com um belo casario do século 19.",
                 "picture": "..."
             },
             {
                 "id": 56,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu da PM e Centro Cultural da PMERJ",
                 "description": "O museu originou-se a partir do acervo que já fazia parte da antiga Sala D´Armas criada, em 1911, para servir de Centro de Adestramento de Oficiais e Praças no manuseio de espadas. Hoje, o acervo conta com 3.000 objetos reunidos ao longo dos quase 200 anos de existência da instituição.",
                 "picture": "..."
             },
             {
                 "id": 57,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Museu da Polícia Civil do Estado do Rio de Janeiro",
                 "description": "O museu tem como ideia resgatar a memória da Polícia Civil do Estado do Rio de Janeiro, através da preservação, pesquisa e exposição da evidência de sua história.",
                 "picture": "..."
             },
             {
                 "id": 58,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Boulevard Olímpico",
                 "description": "A Região Portuária viveu seu apogeu e declínio em pouco mais de um século. De aldeia de pescadores à principal porto do país, a área foi também porta de entrada e moradia dos escravos.",
                 "picture": "..."
             },
             {
                 "id": 59,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Forte do Leme (Forte Duque de Caxias)",
-                "description": "O Forte Duque de Caxias é uma das fortalezas militares mais antigas do Rio de Janeiro. Foi construído entre 1776 e 1779, a mando do Marquês de Lavradio, para proteger a cidade dos invasores espanhóis.",
+                "description": "O Forte Duque de Caxias é uma das fortalezas militares mais antigas do Rio de Janeiro. Foi construído entre 1776 e 1779, a mando do Marquês de Lavradio, para proteger a city dos invasores espanhóis.",
                 "picture": "..."
             },
             {
                 "id": 60,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Planetário",
-                "description": "A Fundação Planetário da Cidade do Rio de Janeiro é uma instituição que se dedica à divulgação da astronomia e ciências afins à população.",
+                "description": "A Fundação Planetário da city do Rio de Janeiro é uma instituição que se dedica à divulgação da astronomia e ciências afins à população.",
                 "picture": "..."
             },
             {
                 "id": 61,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Cais do Valongo",
                 "description": "O Cais do Valongo é um antigo cais localizado na zona portuária. Recebeu o título de Patrimônio Histórico da Humanidade em 2017 por ser o único vestígio material da chegada dos africanos escravizados nas Américas.",
                 "picture": "..."
             },
             {
                 "id": 62,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Arcos da Lapa",
                 "description": "Composto por 42 arcos de estilo romano, os Arcos da Lapa são a maior e mais importante construção colonial do Rio de Janeiro.",
                 "picture": "..."
             },
             {
                 "id": 63,
-                "cidade": "Cabo Frio",
+                "city": "Cabo Frio",
                 "title": "Bairro da Passagem",
-                "description": "O bairro mais antigo de Cabo Frio ainda mantém a aura da fundação da cidade, há quase 400 anos.",
+                "description": "O bairro mais antigo de Cabo Frio ainda mantém a aura da fundação da city, há quase 400 anos.",
                 "picture": "..."
             },
             {
                 "id": 64,
-                "cidade": "Cabo Frio",
+                "city": "Cabo Frio",
                 "title": "Forte de São Mateus",
-                "description": "Construção histórica portuguesa do século XVII, o Forte São Matheus cumpria um objetivo militar, defendendo a cidade de invasões francesas e holandesas e assegurando a extração de recursos naturais.",
+                "description": "Construção histórica portuguesa do século XVII, o Forte São Matheus cumpria um objetivo militar, defendendo a city de invasões francesas e holandesas e assegurando a extração de recursos naturais.",
                 "picture": "..."
             },
             {
                 "id": 65,
-                "cidade": "Paraty",
+                "city": "Paraty",
                 "title": "Caminho do Ouro",
                 "description": "O Caminho do Ouro em Paraty é um trecho do antigo caminho que era utilizado para trazer as riquezas de Minas Gerais até o litoral, e dali serem encaminhadas para Portugal.",
                 "picture": "..."
             },
             {
                 "id": 66,
-                "cidade": "Paraty",
+                "city": "Paraty",
                 "title": "Casa da Cultura de Paraty",
-                "description": "A Casa da Cultura de Paraty se destaca com a tarefa de representar a rica cultura da cidade litorânea, fazendo uma trajetória histórica cultural da cidade, com exposições temporárias e permanentes.",
+                "description": "A Casa da Cultura de Paraty se destaca com a tarefa de representar a rica cultura da city litorânea, fazendo uma trajetória histórica cultural da city, com exposições temporárias e permanentes.",
                 "picture": "..."
             },
             {
                 "id": 67,
-                "cidade": "Paraty",
+                "city": "Paraty",
                 "title": "Museu de Arte Sacra de Paraty",
                 "description": "O Museu de Arte Sacra de Paraty está sediado na Igreja de Santa Rita construída em 1722, reunindo um acervo proveniente das irmandades religiosas e das igrejas.",
                 "picture": "..."
             },
             {
                 "id": 68,
-                "cidade": "Nova Friburgo",
+                "city": "Nova Friburgo",
                 "title": "Casa Suíça e Queijaria Escola",
                 "description": "A Casa Suíça tem a ideia de divulgar a história da imigração suíça de 1819 e 1820, como também resgatar tradições.",
                 "picture": "..."
             },
             {
                 "id": 69,
-                "cidade": "Nova Friburgo",
+                "city": "Nova Friburgo",
                 "title": "Country Clube",
                 "description": "Fundado em 20 de abril de 1957, o Nova Friburgo Country Clube oferece um espaço único de lazer, esporte e convívio social, em total unidade com a natureza.",
                 "picture": "..."
             },
             {
                 "id": 70,
-                "cidade": "Nova Friburgo",
+                "city": "Nova Friburgo",
                 "title": "Colégio Anchieta",
                 "description": "O Colégio Anchieta foi tombado por sua importância arquitetônica, histórica e cultural.",
                 "picture": "..."
             },
             {
                 "id": 71,
-                "cidade": "Angra dos Reis",
+                "city": "Angra dos Reis",
                 "title": "Centro Histórico de Angra dos Reis",
                 "description": "Dona de um extenso litoral, repleto de muito verde, praias e ilhas, Angra dos Reis tem um importante conjunto histórico e cultural.",
                 "picture": "..."
             },
             {
                 "id": 72,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Casa de Cultura Adolpho Bloch",
                 "description": "Inaugurada em 1988, a Casa de Cultura Adolpho Bloch conta com galeria de exposições, teatro, auditório, sala de dança e ateliê.",
                 "picture": "..."
             },
             {
                 "id": 73,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Fonte Judith",
                 "description": "A Fonte Judith é um dos principais pontos turísticos de Teresópolis, devido a sua fama de água terapêutica. A construção atual, que utiliza azulejos portugueses, foi feita em 1967, mas sua origem é bem mais antiga.",
                 "picture": "..."
             },
             {
                 "id": 74,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Museu de Memória Arthur Dalmasso",
-                "description": "É um local dedicado ao resgate do acervo histórico e cultural, com um salão para exposições permanentes sobre a história da cidade.",
+                "description": "É um local dedicado ao resgate do acervo histórico e cultural, com um salão para exposições permanentes sobre a história da city.",
                 "picture": "..."
             },
             {
                 "id": 75,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Museu José Francisco Lippi",
                 "description": "Além do sobrado com documentos, fotos, móveis e ambientes do final do século XIX, também tem os jardins para passeios entre flores, frutas e pássaros.",
                 "picture": "..."
             },
             {
                 "id": 76,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Museu do Futuro",
                 "description": "A Sede do Museu do Futuro está localizada em meio a Mata Atlântica numa Área de Proteção Ambiental, junto ao Parque Estadual dos Três Picos e a cachoeira dos Frades.",
                 "picture": "..."
             },
             {
                 "id": 77,
-                "cidade": "Niterói",
+                "city": "Niterói",
                 "title": "Museu de Arte Contemporânea",
-                "description": "O MAC inaugurado em 02 de setembro de 1996, é o atual símbolo da cidade de Niterói. A forma futurista criada por Niemeyer tornou-se um marco da arquitetura moderna.",
+                "description": "O MAC inaugurado em 02 de setembro de 1996, é o atual símbolo da city de Niterói. A forma futurista criada por Niemeyer tornou-se um marco da arquitetura moderna.",
                 "picture": "..."
             },
             {
                 "id": 78,
-                "cidade": "Niterói",
+                "city": "Niterói",
                 "title": "Museu do Ingá ",
                 "description": "Dedicado à história política e artística fluminense, o Museu do Ingá foi sede do governo do Estado do Rio de Janeiro de 1904 a 1975.",
                 "picture": "..."
             },
             {
                 "id": 79,
-                "cidade": "Niterói",
+                "city": "Niterói",
                 "title": "Ilha da Boa Viagem",
                 "description": "Marco natural e histórico de Niterói, o acesso à ilha se dá por uma ponte de concreto.",
                 "picture": "..."
             },
             {
                 "id": 80,
-                "cidade": "Niterói",
+                "city": "Niterói",
                 "title": "Espaço Cultural dos Correios Niterói ",
                 "description": "O Espaço Cultural foi criado no dia 14 de novembro de 2014, data do centenário do Palácio dos Correios possibilitando a realização de eventos de música, audiovisual e seminários.",
                 "picture": "..."
             },
             {
                 "id": 81,
-                "cidade": "Niterói",
+                "city": "Niterói",
                 "title": "Fortaleza de Santa Cruz da Barra",
                 "description": "A Fortaleza possui um acervo composto de 45 canhões dos séculos XVIII e XIX, além de uma capela datada de 1612, com uma imagem de Santa Bárbara do século XVIII.",
                 "picture": "..."
             },
             {
                 "id": 82,
-                "cidade": "Rio das Flores",
+                "city": "Rio das Flores",
                 "title": "Cachaçaria Werneck ",
-                "description": "Cachaça artesanal de alambique produzida na pequena cidade de Rio das Flores, localizada no histórico Vale do Café. ",
+                "description": "Cachaça artesanal de alambique produzida na pequena city de Rio das Flores, localizada no histórico Vale do Café. ",
                 "picture": "..."
             },
             {
                 "id": 83,
-                "cidade": "Paracambi",
+                "city": "Paracambi",
                 "title": "Fábrica do Conhecimento",
                 "description": "Inaugurada em 1876, o prédio da extinta fábrica Brasil Industrial foi aberto com alvará assinado pela princesa Isabel.",
                 "picture": "..."
             },
             {
                 "id": 84,
-                "cidade": "Itaipava",
+                "city": "Itaipava",
                 "title": "Castelo de Itaipava",
                 "description": "O Castelo de Itaipava foi construído em 1920 e se tornou famoso por ser uma reprodução fiel de um castelo renascentista. Atualmente, o castelo conta com espaço para festas, restaurantes e um hotel, além de um lindo jardim.",
                 "picture": "..."
@@ -597,182 +597,182 @@
         "ecoTurismo": [
             {
                 "id": 1,
-                "cidade": "Engenheiro Paulo de Frontin",
+                "city": "Engenheiro Paulo de Frontin",
                 "title": "Jardim Ecológico Uaná Etê ",
                 "description": "Paraíso eco cult com mais de 29 jardins dedicados à música e à natureza.",
                 "picture": "..."
             },
             {
                 "id": 2,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Vista Chinesa",
                 "description": "A Vista Chinesa é um mirante construído entre 1902 e 1906. Seu estilo oriental faz referência em homenagem aos chineses que trouxeram o cultivo do chá para o Brasil no início do século XIX",
                 "picture": "..."
             },
             {
                 "id": 3,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Aquário Marinho do Rio",
                 "description": "O maior Aquário Marinho da América do Sul, contendo 02 mil moradores de 350 espécies do Brasil e do mundo, divididos em 28 recintos.",
                 "picture": "..."
             },
             {
                 "id": 4,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Bio Parque do Rio",
                 "description": "O Jardim Zoológico do Rio de Janeiro foi o mais antigo zoológico do Brasil, com mais de 80 anos de história.",
                 "picture": "..."
             },
             {
                 "id": 5,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Jardim Botânico",
                 "description": "Fundado em 1808 por D. João, príncipe regente de Portugal, o Jardim Botânico do Rio de Janeiro é famoso pela exuberância e importância de suas coleções de plantas, bem como pela beleza de suas paisagens.",
                 "picture": "..."
             },
             {
                 "id": 6,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Parque Lage",
                 "description": "O parque com aproximadamente 625 mil metros quadrados de Mata Atlântica é tombado pelo IPHAN desde 1957.",
                 "picture": "..."
             },
             {
                 "id": 7,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Mirante Dona Marta",
-                "description": "Do alto de seus 360m, o Mirante Dona Marta proporciona uma das vistas mais incríveis da cidade. De lá, é possível ver o Pão de Açúcar, o Cristo Redentor, o Maracanã, a Baía de Guanabara e a Lagoa Rodrigo de Freitas.",
+                "description": "Do alto de seus 360m, o Mirante Dona Marta proporciona uma das vistas mais incríveis da city. De lá, é possível ver o Pão de Açúcar, o Cristo Redentor, o Maracanã, a Baía de Guanabara e a Lagoa Rodrigo de Freitas.",
                 "picture": "..."
             },
             {
                 "id": 8,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Mirante Morro Dois Irmãos",
                 "description": "A Trilha Morro Dois Irmãos fica em uma área de proteção ambiental para preservar a biodiversidade da Mata Atlântica encontrada nesse trecho da costa brasileira.",
                 "picture": "..."
             },
             {
                 "id": 9,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Mirante do Joá",
                 "description": "Do seu parapeito com azulejos coloridos em forma de mosaico você terá todo o mar à sua frente. Além disso, você verá o bairro de São Conrado, o Morro Dois Irmãos, o Clube Costa Brava e as Ilhas Tijucas.",
                 "picture": "..."
             },
             {
                 "id": 10,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Parque Natural Municipal da Catacumba ",
                 "description": "O Parque da Catacumba está em uma área que foi reflorestada na década de 70. Com quase 27 hectares, o parque possui uma grande diversidade de árvores, plantas e flores.",
                 "picture": "..."
             },
             {
                 "id": 11,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Cachoeira do Horto",
                 "description": "O circuito das cachoeiras do horto pode ser feito o ano inteiro.",
                 "picture": "..."
             },
             {
                 "id": 12,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Parque Nacional da Tijuca",
-                "description": "O Parque Nacional da Tijuca é uma unidade de conservação brasileira de proteção integral da natureza localizada na cidade do Rio de Janeiro.",
+                "description": "O Parque Nacional da Tijuca é uma unidade de conservação brasileira de proteção integral da natureza localizada na city do Rio de Janeiro.",
                 "picture": "..."
             },
             {
                 "id": 13,
-                "cidade": "Nova Friburgo",
+                "city": "Nova Friburgo",
                 "title": "Vargem Alta",
                 "description": "Conhecida como a Terra das Flores, Vargem Alta é um dos destinos mais bonitos da zona rural de Nova Friburgo.",
                 "picture": "..."
             },
             {
                 "id": 14,
-                "cidade": "Casimiro de Abreu",
+                "city": "Casimiro de Abreu",
                 "title": "Parque Municipal Córrego da Luz ",
                 "description": "A principal atração do Parque Municipal Córrego da Luz é o conjunto de piscinas naturais.",
                 "picture": "..."
             },
             {
                 "id": 15,
-                "cidade": "Casimiro de Abreu",
+                "city": "Casimiro de Abreu",
                 "title": "Reserva Biológica União",
                 "description": "A Reserva Biológica União preserva um importante fragmento de Mata Atlântica e é uma das moradas do mico-leão-dourado, primata símbolo da conservação da natureza no Brasil.",
                 "picture": "..."
             },
             {
                 "id": 16,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Cachoeira dos Frades",
                 "description": "Localiza no Parque Nacional dos Três Picos, a Cachoeira dos Frades conta com uma bela queda d'água principal de cerca de 10 metros de altura e que forma um poço maravilhoso para banho.",
                 "picture": "..."
             },
             {
                 "id": 17,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Pedra da Tartaruga",
                 "description": "A Pedra da Tartaruga fica no Parque Natural Municipal Montanhas de Teresópolis.",
                 "picture": "..."
             },
             {
                 "id": 18,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Parque Nacional da Serra dos Órgãos",
                 "description": "O Parque Nacional da Serra dos Órgãos é uma unidade de conservação situada no maciço da Serra dos Órgãos, abrangendo os municípios de Guapimirim, Magé, Petrópolis e Teresópolis.",
                 "picture": "..."
             },
             {
                 "id": 19,
-                "cidade": "Nova Iguaçu",
+                "city": "Nova Iguaçu",
                 "title": "Parque Natural Municipal de Nova Iguaçu",
                 "description": "O Parque Natural Municipal de Nova Iguaçu, conhecido como Parque do Vulcão, foi criado em 1998 e está localizado no conjunto orográfico do Maciço do Mendanha formado pelas serras do Mendanha, Gericinó e Madureira.",
                 "picture": "..."
             },
             {
                 "id": 20,
-                "cidade": "Niterói",
+                "city": "Niterói",
                 "title": "Costão de Itacoatiara",
                 "description": "O costão de Itacoatiara, também conhecido como Morro do Tucum, é um belo monumento que avança sobre o mar.",
                 "picture": "..."
             },
             {
                 "id": 21,
-                "cidade": "Paraty",
+                "city": "Paraty",
                 "title": "Parque Nacional da Serra da Bocaína",
                 "description": "O PNSB foi criado em 1971 com o objetivo de proteger as últimas áreas de Mata Atlântica e ecossistemas marinhos do litoral sul-fluminense. São a segunda maior Unidade de Conservação Federal de Mata Atlântica, com 104 mil hectares.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Nova Friburgo",
+                "city": "Nova Friburgo",
                 "title": "Jardim do Nêgo",
                 "description": "Sítio que, ao invés de barrancos, possui esculturas gigantes feitas em detalhes. Assim é o Jardim do Nêgo, um verdadeiro museu a céu aberto que já existe há mais de 30 anos.",
                 "picture": "..."
             },
             {
                 "id": 23,
-                "cidade": "Nova Friburgo",
+                "city": "Nova Friburgo",
                 "title": "Parque Estadual dos Três Picos",
                 "description": "O seu nome evoca os Três Picos de Friburgo, imponente conjunto de montanhas graníticas cuja altitude chega a 2.366 metros acima do nível do mar e é o ponto culminante de toda a Serra do Mar.",
                 "picture": "..."
             },
             {
                 "id": 24,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Pedra do Elefante",
                 "description": "Localizada próximo ao mirante do soberbo, uma trilha com vista para o Dedo de Deus.",
                 "picture": "..."
             },
             {
                 "id": 25,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Apiário Bela Vista",
                 "description": "A partir do ano 2000 iniciou-se a implantação de apiários em fazendas-parceiras, onde a proposta central é que estes pequenos bolsões de Mata Atlântica tenham uma justificativa lógica de se manterem preservados, além da polinização de determinadas culturas.",
                 "picture": "..."
             },
             {
                 "id": 26,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Mirante do Soberbo",
                 "description": "O Mirante do Soberbo, está localizado próximo à entrada de Teresópolis. Lá de cima, é possível ver outras montanhas da Serra dos Órgãos que estão em nosso território, como o Escalavrado e o Dedo de Nossa Senhora, além dos fundos da Baía de Guanabara.",
                 "picture": "..."
@@ -784,86 +784,86 @@
         "turismoAventura": [
             {
                 "id": 1,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Pedra do Osso",
                 "description": "Com cerca de 20 metros de altura, este pontão rochoso está localizado no Parque Estadual da Pedra Branca",
                 "picture": "..."
             },
             {
                 "id": 2,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Ilha Tijucas",
-                "description": "O conjunto de ilhas está entre a Barra da Tijuca e São Conrado. O pequeno paraíso merece contemplação, das águas cristalinas, dos paredões rochosos e da silhueta da cidade que se vê de longe.",
+                "description": "O conjunto de ilhas está entre a Barra da Tijuca e São Conrado. O pequeno paraíso merece contemplação, das águas cristalinas, dos paredões rochosos e da silhueta da city que se vê de longe.",
                 "picture": "..."
             },
             {
                 "id": 3,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Ilhas Cagarras",
                 "description": "Formado por um arquipélago de sete ilhas: Laje da Cagarra, Cagarra, Filhote da Cagarra, Matias, Praça Onze, Ilha Comprida e Palmas.",
                 "picture": "..."
             },
             {
                 "id": 4,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Pedra da Gávea",
                 "description": "Pedra da Gávea é uma montanha monolítica na Floresta da Tijuca, no Rio de Janeiro, Brasil. Composta por granito e gneisse, a sua altitude é de 842 metros, tornando-se uma das montanhas mais altas do mundo junto de margens oceânicas.",
                 "picture": "..."
             },
             {
                 "id": 5,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Pedra Bonita",
                 "description": "A Pedra Bonita é um ponto turístico localizado no Parque Nacional da Tijuca, mais precisamente, entre a Pedra da Gávea e os bairros de São Conrado e Barra da Tijuca.",
                 "picture": "..."
             },
             {
                 "id": 6,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Pedra do Telégrafo",
                 "description": "Famoso por suas fotos “arriscadas”, a Pedra do Telégrafo está localizada no Parque Estadual da Pedra Branca, em Guaratiba.",
                 "picture": "..."
             },
             {
                 "id": 7,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Parque Estadual da Pedra Branca",
                 "description": "O Parque Estadual da Pedra Branca é uma unidade de conservação ambiental, considerada uma das maiores florestas urbanas do mundo, com 12.500 hectares de extensão.",
                 "picture": "..."
             },
             {
                 "id": 8,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Pedra da Tartaruga",
                 "description": "Trilha de caminhada famosa em uma colina com vistas incríveis para a costa e o mar.",
                 "picture": "..."
             },
             {
                 "id": 9,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Praias Selvagens",
                 "description": "Perigoso, Meio, Funda e Inferno são os nomes das praias selvagens que ficam entre Grumari e Barra de Guaratiba.",
                 "picture": "..."
             },
             {
                 "id": 10,
-                "cidade": "Friburgo",
+                "city": "Friburgo",
                 "title": "Pico da Caledônia",
-                "description": "Pico da Caledônia é uma das maiores elevações da Serra do Mar e que fica situado entre as cidades de Nova Friburgo e Cachoeiras de Macacu.",
+                "description": "Pico da Caledônia é uma das maiores elevações da Serra do Mar e que fica situado entre as citys de Nova Friburgo e Cachoeiras de Macacu.",
                 "picture": "..."
             },
             {
                 "id": 11,
-                "cidade": "Paulo de Frontin",
+                "city": "Paulo de Frontin",
                 "title": "Viaduto Engenheiro Paulo de Frontin",
                 "description": "O viaduto possui estrutura metálica, sendo considerado o único viaduto em ferro e em curva no mundo. Para os amantes de esportes radicais, dá para fazer rapel no viaduto.",
                 "picture": "..."
             },
             {
                 "id": 12,
-                "cidade": "Nova Friburgo",
+                "city": "Nova Friburgo",
                 "title": "Pedra do Cão Sentado",
-                "description": "A Pedra do Cão Sentado é um monumento natural considerado símbolo da cidade de Nova Friburgo. É uma das mais notáveis formações rochosas do parque de Furnas do Catete.",
+                "description": "A Pedra do Cão Sentado é um monumento natural considerado símbolo da city de Nova Friburgo. É uma das mais notáveis formações rochosas do parque de Furnas do Catete.",
                 "picture": "..."
             }
         ]
@@ -873,168 +873,168 @@
         "turismoReligioso": [
             {
                 "id": 1,
-                "cidade": "Vassouras",
+                "city": "Vassouras",
                 "title": "Igreja Matriz Nossa Senhora da Conceição",
                 "description": "A igreja possui características do estilo neoclássico. Em seu interior, um belo painel, elaborado pelo artista Ivo Avelar, contorna a imagem de Nossa Senhora da Conceição no altar.",
                 "picture": "..."
             },
             {
                 "id": 2,
-                "cidade": "Rio das Flores",
+                "city": "Rio das Flores",
                 "title": "Casa Santos Reis",
                 "description": "A Casa Santos Reis é um memorial em homenagem à tradição das Folias de Reis na região. Aberto à visitação desde 1980, abriga um pequeno museu.",
                 "picture": "..."
             },
             {
                 "id": 3,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Igreja Matriz de Santa Teresa d'Ávila",
                 "description": "Construída em 1925 e inaugurada em 1946 tem características do Neogótico, possuindo vitrais coloridos com figuras bíblicas de procedência europeia.",
                 "picture": "..."
             },
             {
                 "id": 4,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Mosteiro de São Bento",
                 "description": "Fundado em 1590 por dois monges vindos do Mosteiro da Bahia em 1589 foi à segunda Ordem religiosa a estabelecer casa no Rio de Janeiro.",
                 "picture": "..."
             },
             {
                 "id": 5,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Catedral Metropolitana do Rio de Janeiro",
-                "description": "A Catedral de São Sebastião do Rio de Janeiro, também conhecida como Catedral Metropolitana do Rio de Janeiro foi inaugurada em 1979, substituindo, como catedral da cidade, a Igreja de Nossa Senhora do Carmo.",
+                "description": "A Catedral de São Sebastião do Rio de Janeiro, também conhecida como Catedral Metropolitana do Rio de Janeiro foi inaugurada em 1979, substituindo, como catedral da city, a Igreja de Nossa Senhora do Carmo.",
                 "picture": "..."
             },
             {
                 "id": 6,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Igreja de Nossa Senhra da Candelária",
                 "description": "Em 1775 ergueu-se a capela em estilo barroco, onde é a atual Igreja de Nossa Senhora da Candelária. Após 123 anos de construção, a Igreja foi inaugurada em 10 de julho de 1898.",
                 "picture": "..."
             },
             {
                 "id": 7,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Catedral Presbiteriana do Rio de Janeiro",
                 "description": "A Catedral Presbiteriana foi à primeira das igrejas desta religião no país, tendo sido fundada em 1862, sob a tutela do reverendo norte-americano Ashbel Green Simonton, que foi o primeiro pastor do templo.",
                 "picture": "..."
             },
             {
                 "id": 8,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Basílica Santuário de Nossa Senhora da Penha",
                 "description": "Sua origem remete à 1635, e sua construção se deve por devoção do Capitão Baltazar de Abreu Cardoso, que era dono de toda a área no entorno do atual Santuário.",
                 "picture": "..."
             },
             {
                 "id": 9,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Centro Cultural Jerusálem",
                 "description": "Local que abriga a maquete da Jerusalém do século I d. C. Incrível para quem deseja aprender sobre a história de Israel e a cultura judaica.",
                 "picture": "..."
             },
             {
                 "id": 10,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Igreja de São Francisco de Paula",
                 "description": "A Igreja foi sagrada no ano de 1865, estando presentes ao ato o Imperador e a Imperatriz.",
                 "picture": "..."
             },
             {
                 "id": 11,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Santuário e Convento de Santo Antônio",
                 "description": "O Convento de Santo Antônio teve sua construção iniciada em 04 de Julho de 1608, quando então foi lançada sua pedra fundamental.",
                 "picture": "..."
             },
             {
                 "id": 12,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Igreja de São Inácio",
                 "description": "A Igreja Santo Inácio começou a ser erguida em 1909, junto com as novas instalações do Colégio Santo Inácio.",
                 "picture": "..."
             },
             {
                 "id": 13,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Templo Hare Krishna",
                 "description": "Conhecido como Templo Hare Krishna do Itanhangá, a Sociedade Internacional para Consciência de Krishna abriga monges e oferece estudos sobre filosofia e elementos que permitem o convívio harmônico com a natureza.",
                 "picture": "..."
             },
             {
                 "id": 14,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Mesquita da Luz",
                 "description": "Fundado por imigrantes sírios e libaneses. Até 2007, as reuniões aconteciam num prédio comercial no Centro do Rio. Em 2008, quando a comunidade muçulmana no Rio de Janeiro reunia mais de 500 pessoas, foi inaugurado o atual templo na Tijuca.",
                 "picture": "..."
             },
             {
                 "id": 15,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Santuário Mariano de Schoenstatt",
                 "description": "Schoenstatt originou-se com a Aliança de Amor que o Padre José Kentenich, fundador do movimento, selou, pela primeira vez em 1914, com Maria.",
                 "picture": "..."
             },
             {
                 "id": 16,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Templo da Glória do Novo Israel",
                 "description": "O Templo da Glória do Novo Israel, também chamado de Catedral Mundial da Fé, é a sede estadual da Igreja Universal do Reino de Deus no Rio de Janeiro.",
                 "picture": "..."
             },
             {
                 "id": 17,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Igreja de São Francisco da Prainha",
                 "description": "A igreja foi erguida em 1696 a pedido do Padre Francisco da Motta. No ano de 1704, a edificação foi doada em testamento para a Ordem Terceira de São Francisco da Penitência, atualmente denominada Ordem Franciscana Secular.",
                 "picture": "..."
             },
             {
                 "id": 18,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Capela de São Roque",
                 "description": "Esta capela faz parte da história de Paquetá. Já serviu de necrotério durante a Revolta da Armada.",
                 "picture": "..."
             },
             {
                 "id": 19,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Santuário Vale do Amor",
                 "description": "O Vale do Amor é um verdadeiro santuário espiritual a céu aberto, e é considerado um oásis para escapar da correria do dia a dia e encontrar paz de um jeito um tanto quanto alternativo.",
                 "picture": "..."
             },
             {
                 "id": 20,
-                "cidade": "Paraty",
+                "city": "Paraty",
                 "title": "Igreja de Nossa Senhora do Rosário e São Benedito",
                 "description": "A igreja foi construída a partir de 1725 para funcionar como templo das irmandades de escravos de Nossa Senhora do Rosário e de São Benedito dos Homens Pretos.",
                 "picture": "..."
             },
             {
                 "id": 21,
-                "cidade": "Paraty",
+                "city": "Paraty",
                 "title": "Igreja Nossa Senhora dos Remédios",
                 "description": "O templo foi erguido de acordo com a tradição, assim, suas obras só se iniciaram, em 1646.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Cabo Frio",
+                "city": "Cabo Frio",
                 "title": "Convento Nossa Senhora dos Anjos",
                 "description": "A pedra fundamental do convento franciscano de Cabo Frio foi lançada em 1684, e o complexo foi inaugurada em 1696 pelo Frei Cristóvão da Madre de Deus Luz. ",
                 "picture": "..."
             },
             {
                 "id": 23,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Ashram Vrajabhumi",
                 "description": "No interior do Templo terá a oportunidade de cantar mantras e participar de palestras. O objetivo é mesclar práticas de Yoga com outras vivências como meditações, caminhada, banho de riacho e atividades relaxantes.",
                 "picture": "..."
             },
             {
                 "id": 24,
-                "cidade": "Arraial do Cabo",
+                "city": "Arraial do Cabo",
                 "title": "Igreja Nossa Senhora dos Remédios",
                 "description": "Nossa Senhora dos Remédios, representa o inicio da história do Brasil. Foi construída pelos portugueses em 1503, local onde se rezou a primeira missa do Brasil em ambiente fechado, em uma construção de 'pau a pique'.",
                 "picture": "..."
@@ -1046,212 +1046,551 @@
         "turismoGastronomico": [
             {
                 "id": 1,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Comuna",
                 "description": "Bar intimista serve hambúrgueres e opções diversas em casa de projeto comunitário com espaço de exposição.",
                 "picture": "..."
             },
             {
                 "id": 2,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Confeitaria Colombo",
                 "description": "Café centenário, renomado por suas iguarias e doces confeitados.",
                 "picture": "..."
             },
             {
                 "id": 3,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Açougue Vegano",
                 "description": "O Primeiro Açougue Vegano do Rio de Janeiro.",
                 "picture": "..."
             },
             {
                 "id": 4,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Café Lunático",
                 "description": "Possibilita uma experiência a partir do café especial, com um ambiente inspirador e sabores afetivos.",
                 "picture": "..."
             },
             {
                 "id": 5,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Flutuante Rio",
                 "description": "O Flutuante Rio é um espaço gastronômico com visual deslumbrante. Possui uma localização privilegiada as margens da mureta da Urca.",
                 "picture": "..."
             },
             {
                 "id": 6,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Surreal Rio",
                 "description": "Este bar com temática de filmes e quadrinhos combina jogos de realidade virtual com drinks e petiscos.",
                 "picture": "..."
             },
             {
                 "id": 7,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Parque Bar",
                 "description": "Um espaço colaborativo, co-criado por profissionais do entretenimento para oferecer experiências ao ar livre.",
                 "picture": "..."
             },
             {
                 "id": 8,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Garota da Urca",
                 "description": "Restaurante com vista para o mar que serve pizzas e outros pratos italianos, além de cerveja e vinho.",
                 "picture": "..."
             },
             {
                 "id": 9,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Tutto Nhoque",
                 "description": "Restaurante com estilo industrial que serve pizzas tradicionais, nhoque, drinques e vinhos.",
                 "picture": "..."
             },
             {
                 "id": 10,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Dark Coffee",
                 "description": "O simples ato de degustar um café em um ambiente acolhedor com decoração moderna e inspiradora.",
                 "picture": "..."
             },
             {
                 "id": 11,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Aconchego Carioca",
                 "description": "Comida nordestina em espaço aconchegante e casual.",
                 "picture": "..."
             },
             {
                 "id": 12,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Casa de Cultura e Arte Julieta de Serpa",
                 "description": "Restaurante francês com decoração clássica e cardápio gourmet.",
                 "picture": "..."
             },
             {
                 "id": 13,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Fogo de Chão",
                 "description": "Rede brasileira de rodízio de carnes servidas à mesa e variado buffet de saladas.",
                 "picture": "..."
             },
             {
                 "id": 14,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Esplanada Grill",
                 "description": "Local tradicional e conhecido como ponto de encontro de artistas, com carnes nobres e vasta carta de vinhos.",
                 "picture": "..."
             },
             {
                 "id": 15,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Lasaí",
                 "description": "Gastronomia vibrante e sensual aliando técnicas modernas e insumos brasileiros cultivados na horta.",
                 "picture": "..."
             },
             {
                 "id": 16,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Naga",
                 "description": "Restaurante Japonês e Asiático com decoração contemporânea e vista para a Lagoa da Barra da Tijuca.",
                 "picture": "..."
             },
             {
                 "id": 17,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Oro",
                 "description": "Ambiente moderno e elegante que serve menus de degustação de cozinha contemporânea com harmonização de vinhos.",
                 "picture": "..."
             },
             {
                 "id": 18,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Sushi Leblon",
                 "description": "Culinária japonesa criativa e contemporânea em um sushi bar aconchegante com varanda e aquário.",
                 "picture": "..."
             },
             {
                 "id": 19,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Boteco Belmonte",
                 "description": "Um tradicional boteco de 1952 onde o público toma conta da calçada bebendo chopp e beliscando empadas abertas de recheio farto.",
                 "picture": "..."
             },
             {
                 "id": 20,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Amarelinho",
                 "description": "Bar histórico, conhecido por servir feijoada, petiscos e cerveja gelada.",
                 "picture": "..."
             },
             {
                 "id": 21,
-                "cidade": "Rio de Janeiro",
+                "city": "Rio de Janeiro",
                 "title": "Terra Brasilis",
                 "description": "Local com ambiente familiar que serve comida brasileira com vista para o Pão de Açúcar.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Varietá Grill",
                 "description": "Churrascaria tradicional serve buffet apurado e variado, com opções japonesas contemporâneas.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Novilho de Ouro",
                 "description": "Carnes na brasa, buffet gastronômico e sushi bar em casa de estilo germânico, com interiores contemporâneos.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Viva Itália",
                 "description": "Massas caseiras, além de risotos, carnes e vinhos, em casa acolhedora e tradicional, com lareira e jardim.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Restaurante Crémerie",
                 "description": "Cozinha fina e variada à la carte de iguarias europeias e queijos de produção própria.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Caldo de Piranha Bar e Restaurante",
                 "description": "O Restaurante Caldo de Piranha preserva a harmonia da culinária especializada em frutos do mar, que vai desde o famoso Caldinho de Piranha e o clássico Pastel de Camarão aos pratos mais elaborados.",
                 "picture": "..."
             },
             {
                 "id": 22,
-                "cidade": "Teresópolis",
+                "city": "Teresópolis",
                 "title": "Linguiça do Padre",
                 "description": "Restaurante tradicional com receitas de leitão à pururuca, a carne-seca e o feijão do padre (além da própria linguiça) são o sucesso da casa que funciona há mais de 30 anos.",
                 "picture": "..."
             },
             {
                 "id": 23,
-                "cidade": "Ilha da Gigóia",
+                "city": "Ilha da Gigóia",
                 "title": "Bay Beach Lounge",
                 "description": "Comida deliciosa com vista para a Ilha da Gigóia mais um balanço de atrativo de frente para a lagoa.",
                 "picture": "..."
             },
             {
                 "id": 24,
-                "cidade": "Niterói",
+                "city": "Niterói",
                 "title": "Café pelo Mundo",
                 "description": "Café pelo mundo não é mais uma cafeteria gourmet. É um conceito novo, trazendo sabores de outros países.",
                 "picture": "..."
             },
             {
                 "id": 25,
-                "cidade": "Petrópolis",
+                "city": "Petrópolis",
                 "title": "Cervejaria Bohemia",
                 "description": "Tours e ambientes interativos, além de cervejas da marca Bohemia, em fábrica de cerveja com restaurante e bar.",
+                "picture": "..."
+            }
+        ]
+    },
+    {
+        "tourId": 6,
+        "turismoPraiaSol": [
+            {
+                "id": 1,
+                "city": "Rio de Janeiro",
+                "title": "Pedra do Arpoador",
+                "description": "Península rochosa com um disputado ponto de surfe, além de vistas para o pôr do sol e trilhas.",
+                "picture": "..."
+            },
+            {
+                "id": 2,
+                "city": "Rio de Janeiro",
+                "title": "Prainha",
+                "description": "Local de beleza exuberante, com uma pequena faixa de areia e morros cobertos pela Mata Atlântica. Os surfistas são apaixonados por este lugar.",
+                "picture": "..."
+            },
+            {
+                "id": 3,
+                "city": "Rio de Janeiro",
+                "title": "Praia de Copacabana",
+                "description": "Copacabana é uma das praias mais emblemáticas do Brasil. Tornou-se famosa e hoje é um dos maiores pontos de interesse no Rio de Janeiro.",
+                "picture": "..."
+            },
+            {
+                "id": 4,
+                "city": "Rio de Janeiro",
+                "title": "Praia Vermelha",
+                "description": "A Praia Vermelha é um dos pontos turísticos da city do Rio de Janeiro bastante popular entre as pessoas que adoram passar bons momentos à beira-mar.",
+                "picture": "..."
+            },
+            {
+                "id": 5,
+                "city": "Rio de Janeiro",
+                "title": "Praia de Ipanema",
+                "description": "A belíssima praia de Ipanema é sem dúvida uma das maiores atrações, sendo vizinha de outros grandes pontos, como a Praia de Copacabana e a Praia do Leblon.",
+                "picture": "..."
+            },
+            {
+                "id": 6,
+                "city": "Rio de Janeiro",
+                "title": "Praia da Joatinga",
+                "description": "A praia da Joatinga é uma praia pequena, que se pode percorrer de uma ponta à outra em menos de dez minutos. Não é acessível em dias de maré alta, uma vez que as ondas cobrem a faixa de areia.",
+                "picture": "..."
+            },
+            {
+                "id": 7,
+                "city": "Rio de Janeiro",
+                "title": "Praia da Barra da Tijuca",
+                "description": "Praia extensa e movimentada com quiosques de comida e vistas para o mar.",
+                "picture": "..."
+            },
+            {
+                "id": 8,
+                "city": "Rio de Janeiro",
+                "title": "Praia da Reserva",
+                "description": "A Praia da Reserva de Marapendi com cerca de 8,0 km de extensão, localiza-se entre a Praia da Barra da Tijuca e a Praia do Recreio.",
+                "picture": "..."
+            },
+            {
+                "id": 9,
+                "city": "Rio de Janeiro",
+                "title": "Praia do Pontal de Sernambetiba",
+                "description": "Pequena Ilha que fica encoberta em períodos de maré alta. A Pedra, localizada entre as praias do Recreio e Macumba, serve como um dos mirantes mais bonitos da city.",
+                "picture": "..."
+            },
+            {
+                "id": 10,
+                "city": "Rio de Janeiro",
+                "title": "Praia da Macumba",
+                "description": "A praia da Macumba é o paraíso da galera que surfa de Longboard.",
+                "picture": "..."
+            },
+            {
+                "id": 11,
+                "city": "Niterói",
+                "title": "Praia do Sossego",
+                "description": "Uma pequena praia que está situada entre as praias oceânicas de Piratininga e Camboinhas, possui acesso por trilha ou por mar.",
+                "picture": "..."
+            },
+            {
+                "id": 12,
+                "city": "Niterói",
+                "title": "Praia de Camboinhas",
+                "description": "Praia tranquila com ondas calmas, vistas panorâmicas, quiosques de comida e amplo estacionamento.",
+                "picture": "..."
+            },
+            {
+                "id": 13,
+                "city": "Niterói",
+                "title": "Praia de Piratininga",
+                "description": "Longa praia de areia dourada com vista para o Pão de Açúcar e quiosques de comida.",
+                "picture": "..."
+            },
+            {
+                "id": 14,
+                "city": "Búzios",
+                "title": "Praia do Canto ",
+                "description": "É uma praia comprida, com 1500 m de extensão, localizada no centro da city, à esquerda do píer de onde saem passeios de barco na península.",
+                "picture": "..."
+            },
+            {
+                "id": 15,
+                "city": "Búzios",
+                "title": "Praia de Geribá",
+                "description": "A praia de Geribá é uma das mais famosas, seu nome vem da palmeira Jerivá, nativa da Mata Atlântica. Com dois quilômetros de extensão, Geribá é a mais frequentada praia de Búzios.",
+                "picture": "..."
+            },
+            {
+                "id": 16,
+                "city": "Búzios",
+                "title": "Praia da Ferradurinha ",
+                "description": "A Praia da Ferradurinha está entre as mais belas, protegida por um grande paredão de rochas, a praia tem mar extremamente tranquilo. Um convite à prática de esportes como SUP e caiaque.",
+                "picture": "..."
+            },
+            {
+                "id": 17,
+                "city": "Búzios",
+                "title": "Praia da Azeda",
+                "description": "De águas tranquilas e cristalinas, boa para o mergulho e em sua continuação está a Praia da Azedinha.",
+                "picture": "..."
+            },
+            {
+                "id": 18,
+                "city": "Búzios",
+                "title": "Praia de João Fernandes ",
+                "description": "A Praia de João Fernandes contém águas calmas e mornas, ideal para snorkeling, mergulho e caiaque.",
+                "picture": "..."
+            },
+            {
+                "id": 19,
+                "city": "Búzios",
+                "title": "Praia Brava",
+                "description": "A Praia Brava, em Búzios, tem este nome devido ao mar agitado e grandes ondas. Reconhecida por suas areias rosadas, tem uma natureza exuberante, com pedras e costões verdes.",
+                "picture": "..."
+            },
+            {
+                "id": 20,
+                "city": "Cabo Frio",
+                "title": "Canal do Itajurú",
+                "description": "O Canal do Itajuru é um canal com seis quilômetros de extensão navegáveis. Está localizado nos municípios de São Pedro da Aldeia e em Cabo Frio. Há diversas opções de passeios de barco com roteiros diferenciados.",
+                "picture": "..."
+            },
+            {
+                "id": 21,
+                "city": "Cabo Frio",
+                "title": "Ilha do Japonês",
+                "description": "Apesar de ser conhecida como ilha, ela é, na verdade, uma croa natural. Recebeu esse nome devido aos navios baleeiros japoneses que usufruíam do local.",
+                "picture": "..."
+            },
+            {
+                "id": 22,
+                "city": "Cabo Frio",
+                "title": "Praia do Peró",
+                "description": "Bastante procurado pelos surfistas, Peró também é extensa, com águas limpas e de temperatura amena. A parte urbanizada é tomada por casas de veraneio e barracas.",
+                "picture": "..."
+            },
+            {
+                "id": 23,
+                "city": "Arraial do Cabo",
+                "title": "Fenda de Nossa Senhora",
+                "description": "Atração à beira-mar com a estátua de um santo colocada em uma fenda entre dois penhascos.",
+                "picture": "..."
+            },
+            {
+                "id": 24,
+                "city": "Arraial do Cabo",
+                "title": "Gruta Azul",
+                "description": "Formação rochosa no mar similar a uma caverna, com águas cristalinas e é uma das belezas naturais mais deslumbrantes de Arraial do Cabo.",
+                "picture": "..."
+            },
+            {
+                "id": 25,
+                "city": "Paraty",
+                "title": "Ilha Comprida ",
+                "description": "Água cristalina, perfeita para mergulho.",
+                "picture": "..."
+            },
+            {
+                "id": 26,
+                "city": "Paraty",
+                "title": "Ilha do Algodão",
+                "description": "A ilha do Algodão é a maior de Paraty sendo ideal para mergulhos e rica pela diversidade de animais e vegetação, excelente ponto de pesca.",
+                "picture": "..."
+            },
+            {
+                "id": 27,
+                "city": "Paraty",
+                "title": "Ilha do Pelado",
+                "description": "O nome da ilha se origina da falta de vegetação, mas na verdade atualmente a ilha é coberta por uma bonita mata atlântica. Na Ilha do Pelado existem quatro pequenas praias.",
+                "picture": "..."
+            },
+            {
+                "id": 28,
+                "city": "Paraty",
+                "title": "Praia da Conceição",
+                "description": "Considerada um pequeno recanto em Paraty, é uma ótima opção para os que procuram um belo lugar para descansar.",
+                "picture": "..."
+            },
+            {
+                "id": 29,
+                "city": "Paraty",
+                "title": "Praia da Lula",
+                "description": "Praia de águas calmas e cristalinas, faz parte dos passeios de escuna de Paraty.",
+                "picture": "..."
+            },
+            {
+                "id": 30,
+                "city": "Paraty",
+                "title": "Saco do Mamanguá",
+                "description": "O Saco do Mamanguá Possui 8 quilômetros de comprimento e 2 quilômetros de largura, assim, sendo confundido com um fiorde tropical.",
+                "picture": "..."
+            },
+            {
+                "id": 31,
+                "city": "Paraty",
+                "title": "Lagoa Azul",
+                "description": "A Lagoa Azul é uma ótima parada, onde a lagoa parece uma piscina natural de cor azul cristalino fazendo jus ao nome que carrega.",
+                "picture": "..."
+            },
+            {
+                "id": 32,
+                "city": "Ilha Grande",
+                "title": "Lagoa Verde",
+                "description": "Lagoa Verde é um recanto de águas rasas, tranquilas, tipicamente verdes e é um dos destaques da costa noroeste de Ilha Grande.",
+                "picture": "..."
+            }
+        ]
+    },
+    {
+        "tourId": 7,
+        "turismoLazer": [
+            {
+                "id": 1,
+                "city": "Rio de Janeiro",
+                "title": "Bondinho do Pão de Açúcar",
+                "description": "Monumento Natural dos Morros do Pão de Açúcar e da Urca.",
+                "picture": "..."
+            },
+            {
+                "id": 2,
+                "city": "Rio de Janeiro",
+                "title": "Jockey Club",
+                "description": "Fundado em 1932, o Jockey Club Brasileiro é o palco mais tradicional do turfe no país.",
+                "picture": "..."
+            },
+            {
+                "id": 3,
+                "city": "Rio de Janeiro",
+                "title": "Cristo Redentor",
+                "description": "Cristo Redentor é uma estátua art déco que retrata Jesus Cristo, localizada no topo do morro do Corcovado, a 709 metros acima do nível do mar.",
+                "picture": "..."
+            },
+            {
+                "id": 4,
+                "city": "Rio de Janeiro",
+                "title": "Mureta da Urca",
+                "description": "Paredão à beira-mar na Baía de Guanabara, famosa pelas vistas para o poente e a estátua do Cristo Redentor.",
+                "picture": "..."
+            },
+            {
+                "id": 5,
+                "city": "Rio de Janeiro",
+                "title": "Aterro do Flamengo",
+                "description": "Aterro do Flamengo é um complexo de lazer, construído sobre aterros sucessivos na baía de Guanabara.",
+                "picture": "..."
+            },
+            {
+                "id": 6,
+                "city": "Rio de Janeiro",
+                "title": "Escadaria Selarón",
+                "description": "A Escadaria Selarón é uma obra arquitetônica localizada entre os bairros de Santa Teresa e Lapa, decorada pelo artista, Jorge Selarón, que declarou-a como uma 'homenagem ao povo brasileiro'.",
+                "picture": "..."
+            },
+            {
+                "id": 7,
+                "city": "Rio de Janeiro",
+                "title": "Roda Gigante Rio Star",
+                "description": "Roda-gigante de observação com 88 metros de altura, vistas para a cidade e pontos turísticos.",
+                "picture": "..."
+            },
+            {
+                "id": 8,
+                "city": "Rio de Janeiro",
+                "title": "Parque Quinta da Boa Vista",
+                "description": "A Quinta da Boa Vista é um parque municipal no Bairro Imperial de São Cristóvão que se constitui em um complexo paisagístico público de grande valor histórico.",
+                "picture": "..."
+            },
+            {
+                "id": 9,
+                "city": "Rio de Janeiro",
+                "title": "Lagoa Rodrigo de Freitas",
+                "description": "Rodrigo de Freitas é uma lagoa localizada na Zona Sul e recebe água de diversos rios tributários que descem das encostas circundantes.",
+                "picture": "..."
+            },
+            {
+                "id": 10,
+                "city": "Rio de Janeiro",
+                "title": "Parque Madureira Mestre Monarco",
+                "description": "Inaugurado em 2012 e ampliado em 2015, situado entre os bairros de Madureira e Guadalupe, na Zona Norte da cidade do Rio de Janeiro.",
+                "picture": "..."
+            },
+            {
+                "id": 11,
+                "city": "Rio de Janeiro",
+                "title": "Maracanã",
+                "description": "Estádio Jornalista Mário Filho, mais conhecido como Maracanã, inaugurado em 1950. Desde então, o Estádio foi palco de grandes momentos do futebol brasileiro e mundial.",
+                "picture": "..."
+            },
+            {
+                "id": 12,
+                "city": "Teresópolis",
+                "title": "Confederação Brasileira de Futebol",
+                "description": "A CBF é a entidade do futebol no Brasil, fundada em 1919, antiga CBD, a atual CBF é responsável pela organização de campeonatos de alcance nacional.",
+                "picture": "..."
+            },
+            {
+                "id": 13,
+                "city": "Niterói",
+                "title": "Parque da Cidade",
+                "description": "O Parque da Cidade de Niterói é uma área de preservação ambiental, localizado no alto do morro da Viração, em Niterói.",
+                "picture": "..."
+            },
+            {
+                "id": 14,
+                "city": "Niterói",
+                "title": "Campo de São Bento",
+                "description": "O Parque Prefeito Ferraz, popularmente conhecido como Campo de São Bento, é uma área verde de lazer no bairro de Icaraí.",
+                "picture": "..."
+            },
+            {
+                "id": 15,
+                "city": "Nova Friburgo",
+                "title": "Teleférico",
+                "description": "Considerado o maior com cadeirinhas duplas no Brasil, o Teleférico de Nova Friburgo é um convite a um passeio nas alturas. Atração tradicional na cidade foi inaugurada em 1975.",
                 "picture": "..."
             }
         ]
