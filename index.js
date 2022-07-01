@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 const tours = require('./tours.json')
 
 
-server.get('/', (req, res) => {
+server.get('/tours', (req, res) => {
     return res.json(tours);
 });
 
