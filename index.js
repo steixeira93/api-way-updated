@@ -2,7 +2,7 @@ const express = require('express');
 const server = express();
 const port = process.env.PORT || 3000;
 
-const tours = require('./tours.json')
+const tours = require('./src/tours/tours.json')
 
 
 server.get('/tours', (req, res) => {
